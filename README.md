@@ -1,3 +1,6 @@
+[![codebeat badge](https://codebeat.co/badges/f75bdb7e-3d19-4dc9-9c75-91d70e5412fe)](https://codebeat.co/projects/github-com-edonosotti-js-promise-chain-examples-master)
+[![Maintainability](https://api.codeclimate.com/v1/badges/058d5a9cd6997fcaa24b/maintainability)](https://codeclimate.com/github/edonosotti/js-promise-chain-examples/maintainability)
+
 # Using Promises in JS - sample code
 
 This code was written for the:
